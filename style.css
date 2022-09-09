@@ -29,7 +29,7 @@ header {
 }
 
 #header-button {
-  background-color: #4cb538;
+  background-color: #6FBF44;
   color: #ffffff;
   width: 124px;
   height: 51px;
@@ -40,6 +40,7 @@ header {
   /* line-height: 100%; */
   letter-spacing: 1px;
   padding: 13px /* 25px */;
+  border:none;
 }
 
 #div-section-h1 {
@@ -53,3 +54,4 @@ header {
 #div-section-a {
   color: #6fbf44;
 }
+
