@@ -55,3 +55,6 @@ header {
   color: #6fbf44;
 }
 
+section {
+    display: flex;
+}
