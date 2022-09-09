@@ -21,7 +21,7 @@ header {
   vertical-align: Top;
   letter-spacing: 0.88px;
   margin-right: 32px;
-  font-weight: 400;  
+  font-weight: 400;
 }
 
 #first-header-link {
@@ -29,7 +29,7 @@ header {
 }
 
 #header-button {
-  background-color: #6FBF44;
+  background-color: #6fbf44;
   color: #ffffff;
   width: 124px;
   height: 51px;
@@ -40,11 +40,19 @@ header {
   /* line-height: 100%; */
   letter-spacing: 1px;
   padding: 13px /* 25px */;
-  border:none;
+  border: none;
 }
 
 #div-section-h1 {
   color: #161a49;
+  font-style: Bold;
+  font-size: 62px;
+  line-height: 82px;
+  line-height: 88%;
+  vertical-align: Top;
+  letter-spacing: 0.6px;
+  width: 582px;
+  height: 164px;
 }
 
 #div-section-paragraph {
@@ -56,5 +64,5 @@ header {
 }
 
 section {
-    display: flex;
+  display: flex;
 }
