@@ -42,33 +42,43 @@ header {
   padding: 13px /* 25px */;
   border: none;
 }
-
-#div-section{
-  margin-left:84.98px;
+section {
+  display: flex;
+  align-items: center;
+}
+#div-section {
+  margin-left: 84.98px;
 }
 
 #div-section-h1 {
   color: #161a49;
   font-style: Bold;
+  font-weight: 800;
   font-size: 62px;
-  line-height: 82px;
-  line-height: 88%;
-  vertical-align: Top;
+  line-height: 138%;
   letter-spacing: 0.6px;
   width: 582px;
   height: 164px;
+  margin: 75.7px 0 47px 0;
 }
 
 #div-section-paragraph {
   color: #4b505a;
   width: 493px;
   height: 99px;
+  font-size: 18px;
+  line-height: 182%;
+  vertical-align: Top;
+  letter-spacing: 0.5px;
+  margin-bottom: 55px;
 }
 
 #div-section-a {
   color: #6fbf44;
+  font-size: 18px;
+  letter-spacing: 1px;
+  width: 112px;
+  height: 27px;
 }
 
-section {
-  display: flex;
-}
+
