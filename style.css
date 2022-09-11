@@ -43,6 +43,10 @@ header {
   border: none;
 }
 
+#div-section{
+  margin-left:84.98px;
+}
+
 #div-section-h1 {
   color: #161a49;
   font-style: Bold;
@@ -57,6 +61,8 @@ header {
 
 #div-section-paragraph {
   color: #4b505a;
+  width: 493px;
+  height: 99px;
 }
 
 #div-section-a {
